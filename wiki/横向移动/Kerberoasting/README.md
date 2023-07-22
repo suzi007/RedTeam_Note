@@ -1,0 +1,6 @@
+- [申请票据](wiki/横向移动/Kerberoasting/申请票据.md)
+- [破解密码](wiki/横向移动/Kerberoasting/破解密码.md)
+- [导出票据](wiki/横向移动/Kerberoasting/导出票据.md)
+- [SPN发现](wiki/横向移动/Kerberoasting/SPN发现.md)
+- [GetUserSPNs](wiki/横向移动/Kerberoasting/GetUserSPNs.md)
+- [重写票据](wiki/横向移动/Kerberoasting/重写票据.md)

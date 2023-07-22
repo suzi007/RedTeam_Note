@@ -1,0 +1,5 @@
+- [常规使用](wiki/内网和域/命令与控制/Metasploit/常规使用.md)
+- [细节使用](wiki/内网和域/命令与控制/Metasploit/细节使用.md)
+- [模块](wiki/内网和域/命令与控制/Metasploit/模块.md)
+- [meterpreter](wiki/内网和域/命令与控制/Metasploit/meterpreter.md)
+- [与cs和empire交互](wiki/内网和域/命令与控制/Metasploit/与cs和empire交互.md)

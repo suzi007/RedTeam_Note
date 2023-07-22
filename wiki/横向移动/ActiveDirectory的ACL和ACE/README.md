@@ -1,0 +1,7 @@
+- [GenericAll](wiki/横向移动/ActiveDirectory的ACL和ACE/GenericAll.md)
+- [GenericWrite](wiki/横向移动/ActiveDirectory的ACL和ACE/GenericWrite.md)
+- [WriteDACL](wiki/横向移动/ActiveDirectory的ACL和ACE/WriteDACL.md)
+- [WriteOwner](wiki/横向移动/ActiveDirectory的ACL和ACE/WriteOwner.md)
+- [读取GMSA密码](wiki/横向移动/ActiveDirectory的ACL和ACE/读取GMSA密码.md)
+- [读取LAPS密码](wiki/横向移动/ActiveDirectory的ACL和ACE/读取LAPS密码.md)
+- [强制更改密码](wiki/横向移动/ActiveDirectory的ACL和ACE/强制更改密码.md)

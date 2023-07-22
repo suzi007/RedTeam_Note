@@ -1,0 +1,4 @@
+- [Top25LFI参数](wiki/赏金技巧/TOP系列/Top25LFI参数.md)
+- [Top25RCE参数](wiki/赏金技巧/TOP系列/Top25RCE参数.md)
+- [Top25重定向dorks](wiki/赏金技巧/TOP系列/Top25重定向dorks.md)
+- [Top25ssrf](wiki/赏金技巧/TOP系列/Top25ssrf.md)

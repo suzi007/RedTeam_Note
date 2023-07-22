@@ -1,0 +1,4 @@
+- [AT](wiki/横向移动/执行命令&IPC&计划任务/AT.md)
+- [IPC](wiki/横向移动/执行命令&IPC&计划任务/IPC.md)
+- [Schtasks](wiki/横向移动/执行命令&IPC&计划任务/Schtasks.md)
+- [Wmic](wiki/横向移动/执行命令&IPC&计划任务/Wmic.md)

@@ -1,0 +1,4 @@
+- [pyinstaller加载C代码编译](wiki/防御规避/Python源码免杀/pyinstaller加载C代码编译.md)
+- [加载器分离](wiki/防御规避/Python源码免杀/加载器分离.md)
+- [Base64编码+Pyinstaller打包](wiki/防御规避/Python源码免杀/Base64编码+Pyinstaller打包.md)
+- [pyinstaller加载py代码编译](wiki/防御规避/Python源码免杀/pyinstaller加载py代码编译.md)

@@ -1,0 +1,8 @@
+- [chisel](wiki/内网和域/端口映射和转发/chisel.md)
+- [iptables](wiki/内网和域/端口映射和转发/iptables.md)
+- [lcx](wiki/内网和域/端口映射和转发/lcx.md)
+- [msf](wiki/内网和域/端口映射和转发/msf.md)
+- [netsh](wiki/内网和域/端口映射和转发/netsh.md)
+- [ssf](wiki/内网和域/端口映射和转发/ssf.md)
+- [SharpChisel](wiki/内网和域/端口映射和转发/SharpChisel.md)
+- [Ligolo](wiki/内网和域/端口映射和转发/Ligolo.md)

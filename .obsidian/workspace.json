@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "20e04e997d815793",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad185ebc33c54023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43169687c31df21a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1f99c739e6c8ddb",
+    "type": "split",
+    "children": [
+      {
+        "id": "89a7e4113a3c0011",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf11e1312ba1bb77",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "7210957a91386ad3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7858bf024c6222ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b65e02f7c42982e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3ee8f27667c391a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8da5004d72170f3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05a68dbe93f57a36",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca566e80a517f445",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "19bfc8fcf7e38c90",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "cf11e1312ba1bb77",
+  "lastOpenFiles": [
+    "wiki/README.md",
+    "wiki/初始访问/近源攻击/README.md",
+    "wiki/初始访问/近源攻击/克隆卡.md",
+    "wiki/初始访问/近源攻击/WI-FI破解.md",
+    "README.md",
+    "wiki/Redteam红队/README.md",
+    "wiki/Redteam红队/Web类/README.md",
+    "wiki/Redteam红队/Bypass技巧/README.md",
+    "wiki/Redteam红队/系统类/README.md",
+    "wiki/Redteam红队/免杀技巧/README.md",
+    "wiki/HASH操作/README.md",
+    "wiki/云安全/README.md",
+    "wiki/云安全/kubernetes/README.md",
+    "wiki/云安全/GCP/README.md",
+    "wiki/云安全/Docker/README.md",
+    "wiki/云安全/Azure/README.md",
+    "wiki/云安全/AWS/README.md",
+    "wiki/云安全/AWS/Shadow-Copy-attack.md",
+    "wiki/云安全/Aliyun/README.md",
+    "wiki/云安全/Aliyun/osskey.md",
+    "wiki/文件操作/README.md",
+    "wiki/收集信息/README.md",
+    "wiki/收集信息/IP和端口信息/README.md",
+    "wiki/收集信息/域名信息/README.md",
+    "wiki/赏金技巧/TOP系列/README.md",
+    "wiki/赏金技巧/字典/README.md"
+  ]
+}
