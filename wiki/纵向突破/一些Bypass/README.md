@@ -1,0 +1,7 @@
+- [Linux绕过disable_function](Linux绕过disable_function.md)
+- [Windows系统组件com绕过](Windows系统组件com绕过.md)
+- [cgi启动方式](cgi启动方式.md)
+- [蚁剑绕过](蚁剑绕过.md)
+- [ImageMagick组件绕过](ImageMagick组件绕过.md)
+- [常规函数绕过](常规函数绕过.md)
+- [Open_basedir绕过](Open_basedir绕过.md)

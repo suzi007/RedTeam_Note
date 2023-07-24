@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "cbf869f27909e15d",
+    "type": "split",
+    "children": [
+      {
+        "id": "38fd103dcab287ee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "200-技术资料库JSZLK/402-微服务-KJ/RuoYiCloud/001-服务网关-RuoYi.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af73c9878e5452af",
+    "type": "split",
+    "children": [
+      {
+        "id": "6830bad8cc12205b",
+        "type": "tabs",
+        "dimension": 72.1132897603486,
+        "children": [
+          {
+            "id": "c3adb6c29142375d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a34416facebb32ea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8ceeca7afbb8ec6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c3140e8e9ba74ec4",
+        "type": "tabs",
+        "dimension": 27.886710239651414,
+        "children": [
+          {
+            "id": "6365044982d76cf7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0bd5833976b4619",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "200-技术资料库JSZLK/402-微服务-KJ/RuoYiCloud/001-服务网关-RuoYi.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792587,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330
+  },
+  "right": {
+    "id": "60b399495c2c801f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bff92c297a73755e",
+        "type": "tabs",
+        "dimension": 64.51378809869375,
+        "children": [
+          {
+            "id": "3ea24d3c1bb65d7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "200-技术资料库JSZLK/402-微服务-KJ/RuoYiCloud/001-服务网关-RuoYi.md"
+              }
+            }
+          },
+          {
+            "id": "e6c2bb95b9dd155c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "39e5bcf4f3736708",
+        "type": "tabs",
+        "dimension": 35.48621190130624,
+        "children": [
+          {
+            "id": "a843f085afd3d88e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "200-技术资料库JSZLK/402-微服务-KJ/RuoYiCloud/001-服务网关-RuoYi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8797a3ac628c546",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "200-技术资料库JSZLK/402-微服务-KJ/RuoYiCloud/001-服务网关-RuoYi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ebcc3e391cbf361",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e49d8dce28cb027",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.3333435058594
+  },
+  "active": "38fd103dcab287ee",
+  "lastOpenFiles": [
+    "200-技术资料库JSZLK/402-微服务-KJ/RuoYiCloud/005-服务调用-RuoYi.md",
+    "200-技术资料库JSZLK/402-微服务-KJ/RuoYiCloud/006-服务监控-RuoYi.md",
+    "200-技术资料库JSZLK/402-微服务-KJ/RuoYiCloud/002-认证中心-RuoYi.md",
+    "000-记事DIARY/2022_08.md",
+    "200-技术资料库JSZLK/07-MyBatis面试题-重点.md",
+    "200-技术资料库JSZLK/100-计算机操作系统与Linux/1-HTTP.md",
+    "000-记事DIARY/Quartz-基本概念及原理.md",
+    "000-记事DIARY/Quartz-具体实现.md",
+    "200-技术资料库JSZLK/303-WebSocket/WebSocket 通信协议及使用.md",
+    "200-技术资料库JSZLK/303-WebSocket/WebSocket 使用问题.md"
+  ]
+}

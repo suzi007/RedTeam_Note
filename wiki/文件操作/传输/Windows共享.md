@@ -1,0 +1,1 @@
+net use x: \127.0.0.1\share /user:example.comuserID myPassword

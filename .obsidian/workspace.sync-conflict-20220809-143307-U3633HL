@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "cbf869f27909e15d",
+    "type": "split",
+    "children": [
+      {
+        "id": "645eac977be8c525",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af73c9878e5452af",
+    "type": "split",
+    "children": [
+      {
+        "id": "6830bad8cc12205b",
+        "type": "tabs",
+        "dimension": 68.50117096018735,
+        "children": [
+          {
+            "id": "ea55bf6e3d2c5dc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3adb6c29142375d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a34416facebb32ea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c3140e8e9ba74ec4",
+        "type": "tabs",
+        "dimension": 31.498829039812648,
+        "children": [
+          {
+            "id": "6365044982d76cf7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0bd5833976b4619",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238
+  },
+  "right": {
+    "id": "60b399495c2c801f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bff92c297a73755e",
+        "type": "tabs",
+        "dimension": 64.51378809869375,
+        "children": [
+          {
+            "id": "3ea24d3c1bb65d7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6c2bb95b9dd155c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "39e5bcf4f3736708",
+        "type": "tabs",
+        "dimension": 35.48621190130624,
+        "children": [
+          {
+            "id": "a843f085afd3d88e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8797a3ac628c546",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ebcc3e391cbf361",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e49d8dce28cb027",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.33334350585938
+  },
+  "active": "645eac977be8c525",
+  "lastOpenFiles": [
+    "700-马士兵MSB/001-一期/05-其它面试视频及各公司面试题(有选择参考)/2019面试题/子文档/JAVA8十大新特性详解（精编）.md",
+    "700-马士兵MSB/001-一期/02-BAT面试题汇总及详解(进大厂必看)/BAT面试题汇总及详解(进大厂必看)_子文档/七大查找算法.md",
+    "700-马士兵MSB/001-一期/05-其它面试视频及各公司面试题(有选择参考)/面试题/面试题.md",
+    "700-马士兵MSB/001-一期/05-其它面试视频及各公司面试题(有选择参考)/2019面试题/2019面试题.md",
+    "600-面试资料库MSZLK/700-设计模式/spring中用到哪些设计模式.md",
+    "600-面试资料库MSZLK/700-设计模式/设计模式经典面试.md",
+    "600-面试资料库MSZLK/700-设计模式/23种设计模式总结（2020最新版）.md",
+    "100-集中处理CPU/BAT面试题汇总及详解(进大厂必看)_子文档/spring中用到哪些设计模式.md",
+    "600-面试资料库MSZLK/200-集合框架/002-ConcurrentHashMap & HashTable.md",
+    "600-面试资料库MSZLK/200-集合框架/003-ArrayList.md"
+  ]
+}

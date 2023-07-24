@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "cbf869f27909e15d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e151076fc51d7bf4",
+        "type": "leaf",
+        "dimension": 78.72340425531915,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000-记事DIARY/2022_10.md",
+            "mode": "source",
+            "source": false
+          }
+        },
+        "group": "68cc28296bf209ad"
+      },
+      {
+        "id": "c0508fafa3551cf7",
+        "type": "leaf",
+        "dimension": 21.276595744680847,
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "000-记事DIARY/2022_10.md"
+          }
+        },
+        "group": "68cc28296bf209ad"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d43c93f45d8bd7e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f88723812f85cf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "241da6fe5ffde6bd",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "df95e57ff5d70ed8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "381d5fb2fe3441f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c63203c16d41a147",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6b38e8b48c0048b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6d535b738384df2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5a1049adbb06d13",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c21e6ab51fa4d479",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000-记事DIARY/2022_10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6cd7605feac28ad1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000-记事DIARY/2022_10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2ae4a0a2d8efa812",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "df95e57ff5d70ed8",
+  "lastOpenFiles": [
+    "000-记事DIARY/001-报告云系统 csei-cloud.md",
+    "000-记事DIARY/2022_10.md",
+    "000-记事DIARY/000-日常使用.md",
+    "000-记事DIARY/2022_09.md",
+    "000-记事DIARY/2022_07.md",
+    "000-记事DIARY/csei-cloud-oa.md",
+    "200-技术资料库JSZLK/webSocket 使用问题.md",
+    "001-Index/记忆力方法.md",
+    "600-MSZLK/2022年8月-9月-面试.md",
+    "600-MSZLK/302-多线程-JAVA/2-乐观锁、悲观锁.md"
+  ]
+}

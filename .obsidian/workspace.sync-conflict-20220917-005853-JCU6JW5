@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "cbf869f27909e15d",
+    "type": "split",
+    "children": [
+      {
+        "id": "973bda8d2099f7ce",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000-记事DIARY/2022_09.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af73c9878e5452af",
+    "type": "split",
+    "children": [
+      {
+        "id": "6830bad8cc12205b",
+        "type": "tabs",
+        "dimension": 72.1132897603486,
+        "children": [
+          {
+            "id": "c3adb6c29142375d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a34416facebb32ea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c8ceeca7afbb8ec6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "c3140e8e9ba74ec4",
+        "type": "tabs",
+        "dimension": 27.886710239651414,
+        "children": [
+          {
+            "id": "6365044982d76cf7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0bd5833976b4619",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "000-记事DIARY/2022_09.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792587,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330
+  },
+  "right": {
+    "id": "60b399495c2c801f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bff92c297a73755e",
+        "type": "tabs",
+        "dimension": 64.51378809869375,
+        "children": [
+          {
+            "id": "3ea24d3c1bb65d7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000-记事DIARY/2022_09.md"
+              }
+            }
+          },
+          {
+            "id": "e6c2bb95b9dd155c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "39e5bcf4f3736708",
+        "type": "tabs",
+        "dimension": 35.48621190130624,
+        "children": [
+          {
+            "id": "a843f085afd3d88e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000-记事DIARY/2022_09.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8797a3ac628c546",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "000-记事DIARY/2022_09.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ebcc3e391cbf361",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e49d8dce28cb027",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.3333435058594
+  },
+  "active": "973bda8d2099f7ce",
+  "lastOpenFiles": [
+    "000-记事DIARY/报告云系统 csei-cloud.md",
+    "000-记事DIARY/2022_09.md",
+    "000-记事DIARY/2022_08.md",
+    "000-记事DIARY/在线考试系统 exam.md",
+    "000-记事DIARY/SDBK.md",
+    "100-集中处理CPU/梁琛琛.md",
+    "200-技术资料库JSZLK/601-Redis-ZJJ/6-redis 分布式锁的 8 大坑.md",
+    "200-技术资料库JSZLK/601-Redis-ZJJ/4-Redis哨兵、持久化、主从、手撕LRU.md",
+    "200-技术资料库JSZLK/601-Redis-ZJJ/5-分布式锁、并发竞争、双写一致性.md",
+    "200-技术资料库JSZLK/Redis 实现消息队列的几种方式.md"
+  ]
+}

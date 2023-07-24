@@ -1,0 +1,17 @@
+{
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "custom-admonitions.c9c6cb.sync-conflict-20220809-141319-U3633HL",
+    "custom-admonitions.c9c6cb.sync-conflict-20220811-105238-U3633HL",
+    "编览模式-多彩标题",
+    "Blue Topaz",
+    "custom-admonitions.c9c6cb"
+  ],
+  "theme": "obsidian",
+  "baseFontSize": 18,
+  "monospaceFontFamily": "Cascadia Mono",
+  "translucency": false,
+  "textFontFamily": "霞鹜文楷 GB 屏幕阅读版",
+  "accentColor": "",
+  "nativeMenus": false
+}

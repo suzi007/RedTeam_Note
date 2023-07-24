@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "cbf869f27909e15d",
+    "type": "split",
+    "children": [
+      {
+        "id": "de7f177eec89b441",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/007-链路追踪-RuoYi.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b1aca7e388441e32",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "609871c8db082dd7",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "74884061b01eb1a6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "182e30771736531e",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3b8d263502957a7b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "6636da3dda8b2a5f",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "78b9554670016f64",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5235c9a3269d30cf",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "0a366e5280830f1a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/007-链路追踪-RuoYi.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f3b2ee845edbba56",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/007-链路追踪-RuoYi.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "15bbd8af1788b66d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/007-链路追踪-RuoYi.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "de7f177eec89b441",
+  "lastOpenFiles": [
+    "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/007-链路追踪-RuoYi.md",
+    "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/010-分布式文件-RuoYi.md",
+    "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/009-熔断和降级-RuoYi.md",
+    "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/001-服务网关-RuoYi.md",
+    "600-面试资料库MSZLK/500-数据库-SJK/09-MySQL数据库面试题-重点.md",
+    "600-面试资料库MSZLK/500-数据库-SJK/二叉树、平衡二叉树、B-Tree、B-Tree-说明.md",
+    "600-面试资料库MSZLK/500-数据库-SJK/B-tree和B-tree的区别.md",
+    "700-MSB/重点看-一线大厂面试题合集/07-MyBatis面试题-重点.md",
+    "700-MSB/001-一期/04-常见面试题汇总(有选择看)(1)/1MySQL55题及答案.md",
+    "600-面试资料库MSZLK/500-数据库-SJK/09-MySQL数据库面试题（2020最新版）-重点.md"
+  ]
+}

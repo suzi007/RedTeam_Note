@@ -1,0 +1,6 @@
+- [Bypass AMSI](Bypass-AMSI.md)
+- [一些可尝试绕过白名单的执行](一些可尝试绕过白名单的执行.md)
+- [在Windows Server 2016和2019中绕过WindowsDefender](在Windows-Server-2016和2019中绕过WindowsDefender.md)
+- [cshot远程shellcode](cshot远程shellcode.md)
+- [内存中解码shellcode绕过av](内存中解码shellcode绕过av.md)
+- [Pezor免杀](Pezor免杀.md)

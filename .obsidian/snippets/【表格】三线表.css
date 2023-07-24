@@ -1,0 +1,11 @@
+table {
+    border: 1px solid transparent;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    text-align: left;
+}
+
+thead {
+    border-bottom: 1.5px solid black;
+    text-align: left;
+}

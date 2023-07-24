@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "cbf869f27909e15d",
+    "type": "split",
+    "children": [
+      {
+        "id": "58bfab7f0d0f1f59",
+        "type": "tabs",
+        "dimension": 78.72340425531915,
+        "children": [
+          {
+            "id": "e151076fc51d7bf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000-记事DIARY/2022_12.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "68cc28296bf209ad"
+          }
+        ]
+      },
+      {
+        "id": "24290b0fc6f85d0e",
+        "type": "tabs",
+        "dimension": 21.276595744680847,
+        "children": [
+          {
+            "id": "c0508fafa3551cf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "000-记事DIARY/2022_12.md"
+              }
+            },
+            "group": "68cc28296bf209ad"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a56f7ad30bbd542c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "363be30da120fce8",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "4989b408fe09b231",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "19acb9ac5be0aa14",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2b2193d5191e7338",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2ebdcc5ed8c415ac",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "e3fae91ce32687a9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2f754de922efa818",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "e8ebe583a3036bc5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "000-记事DIARY/2022_12.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f561f1ac9a832e9a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "000-记事DIARY/2022_12.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "e151076fc51d7bf4",
+  "lastOpenFiles": [
+    "000-记事DIARY/2022_10.md",
+    "000-记事DIARY/2022_12.md",
+    "000-记事DIARY/004-换热管束安全评价软件及材料数据库平台.md",
+    "000-记事DIARY/001-报告云系统 csei-cloud.md",
+    "000-记事DIARY/000-日常使用.md",
+    "000-记事DIARY/2022_09.md",
+    "000-记事DIARY/2022_07.md",
+    "000-记事DIARY/csei-cloud-oa.md",
+    "200-技术资料库JSZLK/webSocket 使用问题.md",
+    "001-Index/记忆力方法.md"
+  ]
+}

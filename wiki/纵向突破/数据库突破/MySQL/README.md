@@ -1,0 +1,3 @@
+- [MySQL开启外联](wiki/纵向突破/数据库突破/MySQL/MySQL开启外联.md)
+- [MySQL连接读取文件](wiki/纵向突破/数据库突破/MySQL/MySQL连接读取文件.md)
+- [MySQL不登陆执行命令](wiki/纵向突破/数据库突破/MySQL/MySQL不登陆执行命令.md)

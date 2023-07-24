@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "cbf869f27909e15d",
+    "type": "split",
+    "children": [
+      {
+        "id": "de7f177eec89b441",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/005-服务调用-RuoYi.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af73c9878e5452af",
+    "type": "split",
+    "children": [
+      {
+        "id": "6830bad8cc12205b",
+        "type": "tabs",
+        "dimension": 68.50117096018735,
+        "children": [
+          {
+            "id": "ea55bf6e3d2c5dc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3adb6c29142375d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a34416facebb32ea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "c3140e8e9ba74ec4",
+        "type": "tabs",
+        "dimension": 31.498829039812648,
+        "children": [
+          {
+            "id": "6365044982d76cf7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "f0bd5833976b4619",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/005-服务调用-RuoYi.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 376
+  },
+  "right": {
+    "id": "60b399495c2c801f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bff92c297a73755e",
+        "type": "tabs",
+        "dimension": 64.51378809869375,
+        "children": [
+          {
+            "id": "3ea24d3c1bb65d7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/005-服务调用-RuoYi.md"
+              }
+            }
+          },
+          {
+            "id": "e6c2bb95b9dd155c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "39e5bcf4f3736708",
+        "type": "tabs",
+        "dimension": 35.48621190130624,
+        "children": [
+          {
+            "id": "a843f085afd3d88e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/005-服务调用-RuoYi.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8797a3ac628c546",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/005-服务调用-RuoYi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ebcc3e391cbf361",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e49d8dce28cb027",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353
+  },
+  "active": "de7f177eec89b441",
+  "lastOpenFiles": [
+    "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/004-配置中心-RuoYi.md",
+    "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/002-注册中心-RuoYi.md",
+    "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/002-认证中心-RuoYi.md",
+    "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/001-服务网关-RuoYi.md",
+    "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/013-应用容器部署-RuoYi.md",
+    "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/012-分布式日志-RuoYi.md",
+    "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/011-分布式事务-RuoYi.md",
+    "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/010-分布式文件-RuoYi.md",
+    "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/009-熔断和降级-RuoYi.md",
+    "600-面试资料库MSZLK/402-微服务-KJ/RuoYiCloud/008-分库分表-RuoYi.md"
+  ]
+}

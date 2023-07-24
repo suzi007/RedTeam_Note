@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/346.png)
+![image](img/346.png)
   #### 正向(目标机存在外网IP)：
 	>ew –s ssocksd –l 888
 	连接sockscap64靶机外网IP+端口888

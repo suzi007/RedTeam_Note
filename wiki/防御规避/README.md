@@ -46,3 +46,5 @@
 - [carboncopy](wiki/防御规避/carboncopy.md)
 - [avet](wiki/防御规避/avet.md)
 - [c代码加载图片马](wiki/防御规避/c代码加载图片马.md)
+- [恶意软件在线检测平台](wiki/防御规避/恶意软件在线检测平台.md)
+- [隐秘攻击](wiki/防御规避/隐秘攻击.md)

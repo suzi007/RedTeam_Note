@@ -1,1 +1,29 @@
-{}
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "fileSortOrder": "alphabetical",
+  "attachmentFolderPath": "900-Attachment/面试-202307",
+  "useMarkdownLinks": false,
+  "showLineNumber": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "000-记事DIARY",
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "communityThemeSortOrder": "download",
+  "showFrontmatter": true,
+  "rightToLeft": false,
+  "communityPluginSortOrder": "download",
+  "userIgnoreFilters": [
+    "900-Attachment/"
+  ],
+  "showInlineTitle": true,
+  "newLinkFormat": "shortest",
+  "readableLineLength": false
+}

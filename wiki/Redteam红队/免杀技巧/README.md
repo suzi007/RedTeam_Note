@@ -1,6 +1,0 @@
-- [Bypass AMSI](wiki/Redteam红队/免杀技巧/Bypass-AMSI.md)
-- [一些可尝试绕过白名单的执行](wiki/Redteam红队/免杀技巧/一些可尝试绕过白名单的执行.md)
-- [在Windows Server 2016和2019中绕过WindowsDefender](wiki/Redteam红队/免杀技巧/在Windows-Server-2016和2019中绕过WindowsDefender.md)
-- [cshot远程shellcode](wiki/Redteam红队/免杀技巧/cshot远程shellcode.md)
-- [内存中解码shellcode绕过av](wiki/Redteam红队/免杀技巧/内存中解码shellcode绕过av.md)
-- [Pezor免杀](wiki/Redteam红队/免杀技巧/Pezor免杀.md)

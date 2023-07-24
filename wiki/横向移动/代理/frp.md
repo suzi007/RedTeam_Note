@@ -17,13 +17,13 @@
 	上传frpc.exe和frpc.ini到目标服务器上,直接运行frpc.exe（在实战中可能会提示找不到配置文件，需要使用-c参数指定配置文件的路径frpc.exe -c 文件路径），可以修改文件名和配置名以混淆视听。
 	公网vps主机上运行./frps –c frps.ini
 	靶机执行./frpc –c frpc.ini
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/347.png)
+![image](img/347.png)
 
 	MSF中设置全局变量
 	>setg proxies 公网IP:12345
 	>setg ReverseAllowProxy true 运行反向代理
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/348.png)
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/349.png)
+![image](img/348.png)
+![image](img/349.png)
 
 	结束攻击
 	tasklist 

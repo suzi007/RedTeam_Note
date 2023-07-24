@@ -136,7 +136,7 @@
 	winrm                     使用WinRM横向渗透
 	wmi                       使用WMI横向渗透
 	执行命令，在beacon模式下键入shell+命令
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/221.png)
+![image](img/221.png)
 
 	>sleep 0 交互模式，立刻执行命令
 	注入DLL到某个进程

